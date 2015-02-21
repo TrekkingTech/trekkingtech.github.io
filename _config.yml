@@ -5,7 +5,7 @@ locale: en_US
 description: Nature and technology - these are a few of my favourite things.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://trekkingtech.com
 
 # Jekyll configuration
 
