@@ -17,7 +17,7 @@ Then last year I decided to invest a bit in my new phone, and bought the flagshi
 -  As a flagship phone it was likely to get **rooted** - I had problems finding rooting tutorials for the xCover and xCover 2.  
 - **microSD support** even though it is deprecated by Google and Apple doesn't care for it. And considering the 16GB internal memory it is a must.  
 - Samsung had chosen to make their S5 **IP67 certified** as a standard, not only available for some second tier lower spec model like the example of their S4 Active. This was the selling point that took me away from HTC and Apple.  
-Samsung have now released information on their newest flagship phones, the Galaxy S6 and the Galaxy S6 Edge. Obvious improvements were of course processor, memory, camera and screen as expected. *Not expected* was that they have used high end materials like aluminum and glass whereas they are known for using plastic also in their highend models.  
+Samsung have now released information on their newest flagship phones, the Galaxy S6 and the Galaxy S6 Edge. See article on [TechCrunch.](http://techcrunch.com/2015/03/01/samsung-galaxy-s6-s6-edge-hands-on/) Obvious improvements were of course processor, memory, camera and screen as expected. *Not expected* was that they have used high end materials like aluminum and glass whereas they are known for using plastic also in their highend models.  
 **My big disappointment:**  
 - Not waterproof.  
 - No microSD support.  
