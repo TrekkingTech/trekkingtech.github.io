@@ -7,6 +7,7 @@ description: Nature and technology - these are a few of my favourite things.
 logo: site-logo.png
 search: true
 url: http://trekkingtech.com
+comments: true
 
 # Jekyll configuration
 
@@ -37,7 +38,7 @@ owner:
   name: TrekkingTech
   avatar: bio-photo.jpg
   email: trekkingtech@gmail.com
-  disqus-shortname:
+  disqus-shortname: TrekkingTech
   twitter: TrekkingTech
   facebook: #username
   github: TrekkingTech
